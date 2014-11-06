@@ -5,25 +5,27 @@ Examples for CUNY Grad Center workshop, 11/6.
 
 ### if you have a mac and signed up for Github
 
+open Terminal and type the following:
 ````
-open Terminal
-  cd Desktop
-  git clone https://github.com/sarahgp/cuny-examples.git
+cd Desktop
+git clone https://github.com/sarahgp/cuny-examples.git
 [enter password and email]
-  cd cuny-examples/mac_setup
-  python -m SimpleHTTPServer 8000
-
-open your browser to localhost:8000
+cd cuny-examples/mac_setup
+python -m SimpleHTTPServer 8000
 ````
+Then open your browser to [localhost:8000](locahost:8000)
 
 
-*if you have a mac and DID NOT sign up for Github*
+#### if you have a mac and DID NOT sign up for Github
 go to: https://github.com/sarahgp/cuny-examples
 download the zip file, move to desktop and open it
-open Terminal
+open Terminal and type: 
+
+````
 > cd ~/Desktop/cuny-examples/mac_setup
 > python -m SimpleHTTPServer 8000
-open your browser to localhost:8000
+````
+Then open your browser to [localhost:8000](locahost:8000)
 
 *if you have Windows*
 go to: https://github.com/sarahgp/cuny-examples
