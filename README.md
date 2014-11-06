@@ -4,13 +4,13 @@ d3, design & datavis
 Examples for CUNY Grad Center workshop, 11/6.
 
 *if you have a mac and signed up for Github*
-open Terminal
 
-> cd Desktop
-> git clone https://github.com/sarahgp/cuny-examples.git
+open Terminal
+  cd Desktop
+  git clone https://github.com/sarahgp/cuny-examples.git
 [enter password and email]
-> cd cuny-examples/mac_setup
-> python -m SimpleHTTPServer 8000
+  cd cuny-examples/mac_setup
+  python -m SimpleHTTPServer 8000
 
 open your browser to localhost:8000
 
