@@ -3,7 +3,7 @@ d3, design & datavis
 
 Examples for CUNY Grad Center workshop, 11/6.
 
-### if you have a mac and signed up for Github
+#### if you have a mac and signed up for Github
 
 open Terminal and type the following:
 ````
@@ -18,7 +18,9 @@ Then open your browser to [localhost:8000](locahost:8000)
 
 #### if you have a mac and DID NOT sign up for Github
 go to: https://github.com/sarahgp/cuny-examples
+
 download the zip file, move to desktop and open it
+
 open Terminal and type: 
 
 ````
