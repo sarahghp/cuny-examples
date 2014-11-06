@@ -13,7 +13,7 @@ git clone https://github.com/sarahgp/cuny-examples.git
 cd cuny-examples/mac_setup
 python -m SimpleHTTPServer 8000
 ````
-Then open your browser to [localhost:8000](locahost:8000)
+Then open your browser to [localhost:8000](http://localhost:8000)
 
 
 #### if you have a mac and DID NOT sign up for Github
@@ -27,9 +27,10 @@ open Terminal and type:
 > cd ~/Desktop/cuny-examples/mac_setup
 > python -m SimpleHTTPServer 8000
 ````
-Then open your browser to [localhost:8000](locahost:8000)
+Then open your browser to [localhost:8000](http://localhost:8000)
 
-*if you have Windows*
+### if you have Windows
 go to: https://github.com/sarahgp/cuny-examples
+
 download the zip file
 
